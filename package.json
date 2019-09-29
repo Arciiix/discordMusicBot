@@ -1,0 +1,27 @@
+{
+  "name": "discordmusicbot",
+  "version": "1.0.0",
+  "description": "Simple music bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "node-gyp": "^5.0.4",
+    "node-opus": "^0.3.2",
+    "npm": "^6.11.3",
+    "ytdl": "^0.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arciiix/discordMusicBot.git"
+  },
+  "author": "Arciiix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arciiix/discordMusicBot/issues"
+  },
+  "homepage": "https://github.com/Arciiix/discordMusicBot#readme"
+}
